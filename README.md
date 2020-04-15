@@ -1,1 +1,4 @@
-# Logico-Ejemplo-forall-compras
+# Compras de todo
+
+## Ejemplo de forall
+
