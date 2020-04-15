@@ -1,0 +1,1 @@
+# Logico-Ejemplo-forall-compras
