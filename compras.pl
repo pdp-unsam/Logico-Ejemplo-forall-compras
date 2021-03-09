@@ -27,4 +27,4 @@ forall(precio(Producto,Precio),(compra(Alguien,Producto,Cantidad,Vuelto),Cantida
 
 siempreQueCompraCompraVarios(Alguien):-
   dinero(Alguien,Dinero),
-forall((precio(Producto,Precio),compra(Alguien,Producto,Cantidad,Vuelto)),Cantidad > 1).
+  forall((precio(Producto,Precio),compra(Alguien,Producto,Cantidad,Vuelto)),Cantidad > 1).
